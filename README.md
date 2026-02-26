@@ -173,3 +173,4 @@ O cualquier plataforma compatible con Next.js (Netlify, Railway, etc.)
 
 **© 2025 Tamara Sport. Todos los derechos reservados.**
 # demo-boom-fit-studio
+# demo-tamara-sport
