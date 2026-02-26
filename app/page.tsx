@@ -14,9 +14,9 @@ import {
 const fadeInUp = {
   initial: { opacity: 0, y: 20 },
   whileInView: { opacity: 1, y: 0 },
-  transition: { duration: 0.5, ease: "easeOut" },
+  transition: { duration: 0.5 },
   viewport: { once: true }
-};
+} as const;
 
 export default function Home() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
