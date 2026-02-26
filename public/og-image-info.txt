@@ -1,0 +1,19 @@
+OG IMAGE PLACEHOLDER
+===================
+
+Este proyecto requiere una imagen Open Graph (og-image.jpg) con las siguientes especificaciones:
+
+- Dimensiones: 1200 x 630 px
+- Formato: JPG o PNG
+- Ubicación: /public/og-image.jpg
+
+Sugerencias de diseño:
+- Logo de Tamara Sport centrado
+- Fondo color beige (#F2EDE6)
+- Texto: "Ropa Deportiva Mexicana"
+- Estética minimalista coherente con la marca
+
+Una vez que tengas la imagen, colócala en:
+/public/og-image.jpg
+
+Esta imagen se mostrará cuando el sitio sea compartido en redes sociales.
